@@ -1,10 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Chirag</h1>
 <h3 align="center">A passionate developer writing since 2024, 
-I have experience working with Python, Rust and React Native</h3>
+I have experience working with Python, Rust and React Native.</h3>
 
 ## 💻 Tech Stack
-![Kotlin](https://img.shields.io/badge/kotlin-43853D.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/jetpack_compose-39457E.svg?style=for-the-badge&logo=jetpack-compose&logoColor=white) ![Kotlin Multiplatform](https://img.shields.io/badge/KMM-35495E?&style=for-the-badge&logo=kotlin&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yugeshjain) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yugeshjain) 
@@ -25,8 +30,8 @@ I have worked for clients like
 2. Anderson Columbia
 
 ## Connect with me 🌏
-🚀 [Site](https://chiragbaid.com) <br>
+🚀 [Portfolio](https://chiragbaid.com) <br>
 🐦 [Twitter](https://x.com/chiragbaid) <br>
 💼 [LinkedIn](https://linkedin.com/in/baidchirag) <br>
 
-[![](https://visitcount.itsvg.in/api?id=yugeshjain&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ChiragBaid&icon=0&color=1)](https://visitcount.itsvg.in)
