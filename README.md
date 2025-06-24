@@ -12,7 +12,7 @@ I have experience working with Python, Rust and React Native.</h3>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yugeshjain) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yugeshjain) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/baidchirag) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/chiragbaid_) 
 
 ## 🎬 Projects:
 
@@ -31,7 +31,7 @@ I have worked for clients like
 
 ## Connect with me 🌏
 🚀 [Portfolio](https://chiragbaid.com) <br>
-🐦 [Twitter](https://x.com/chiragbaid) <br>
+🐦 [Twitter](https://x.com/chiragbaid_) <br>
 💼 [LinkedIn](https://linkedin.com/in/baidchirag) <br>
 
 [![](https://visitcount.itsvg.in/api?id=ChiragBaid&icon=0&color=1)](https://visitcount.itsvg.in)
