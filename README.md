@@ -16,9 +16,7 @@ I have experience working with Python, GoLang, Rust and React Native.</h3>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/baidchirag) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/chiragbaid_) 
 
-## 🎬 Projects:
-
-## 🔧 Projects
+## 🔧 Projects:
 
 - **[lensanalytics-v1](https://github.com/chiragbadhe/lensanalytics-v1)** – A leaderboard using 100% public Lens Protocol data.  
   ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -41,14 +39,11 @@ I have experience working with Python, GoLang, Rust and React Native.</h3>
 
 ##  👀 What I am into at the moment ?
 
-- Some amazing projects at office!
-- Kotlin Multiplatform OS projects
-- Flutter.
-- Jetpack Compose Android!
-
-I have worked for clients like 
-1. 1800 Contacts (Hello Eyes)
-2. Anderson Columbia
+- Making package for hyena - A unused code detector for Go.
+- Machine Learning with Python
+- Go
+- Rust
+  
 
 ## Connect with me 🌏
 🚀 [Portfolio](https://chiragbaid.com) <br>
