@@ -18,23 +18,11 @@ I have experience working with Python, GoLang, Rust and React Native.</h3>
 
 ## 🔧 Projects:
 
-- **[lensanalytics-v1](https://github.com/chiragbadhe/lensanalytics-v1)** – A leaderboard using 100% public Lens Protocol data.  
-  ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white)
+- **[Splitwise Clone](https://github.com/ChiragBaid/Splitwise-Clone)** – Expense Sharing App Built with Rust and React Native.  
 
-- **[consutly-ethindia-winner](https://github.com/chiragbadhe/consutly-ethindia-winner)** – P2P video consultations with on-demand ETH payments.  
-  ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white)
+- **[Hyena](https://github.com/chiragBaid/hyena)** – - Static Code Analyzer for Unused Symbols in Go  
 
-- **[echo‑personal‑assistant‑framework](https://github.com/chiragbadhe/echo-personal-assistant-framework)** – Control an Arduino robot from web UI.  
-  ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-- **[ThreeJs‑Portfolio](https://github.com/chiragbadhe/ThreeJs-Portfolio)** – 3D interactive portfolio powered by Three.js, Next.js, and Tailwind CSS.  
-  ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Next.js](https://img.shields.io/badge/next.js-black?style=flat&logo=next-dot-js&logoColor=white)
-
-- **[ForumSync](https://github.com/chiragbadhe/ForumSync)** – Aggregator for DeFi & blockchain trends.  
-  ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-- **[twitter‑clone](https://github.com/chiragbadhe/twitter-clone)** – Social app clone using Next.js & MongoDB.  
-  ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb&logoColor=white)
+- **[Resume Parser](https://github.com/ChiragBaid/Resume-Parser)** – ML Powered Resume Information Extractor
 
 
 ##  👀 What I am into at the moment ?
